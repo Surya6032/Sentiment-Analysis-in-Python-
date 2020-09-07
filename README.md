@@ -10,4 +10,5 @@ The library requirements specific to some methods are:
 
 - keras with TensorFlow backend for Logistic Regression, MLP, RNN (LSTM), and CNN.
 - xgboost for XGBoost.
+
 Note: It is recommended to use Anaconda distribution of Python.

@@ -12,3 +12,6 @@ The library requirements specific to some methods are:
 - xgboost for XGBoost.
 
 Note: It is recommended to use Anaconda distribution of Python.
+
+# Usage
+Make a developer account on twitter in order to use 'credential.py'
